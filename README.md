@@ -60,7 +60,7 @@ Transform data using PCA and re-cluster with K-Means.
 
 Compare clustering results with the original dataset.
 
-Results and Insights
+## Results and Insights
 
 The elbow method determines the best k value for both the original and PCA-transformed data.
 
